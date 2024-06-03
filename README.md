@@ -14,6 +14,9 @@ This the code our paper ["Pluvial Flood Emulation with Hydraulics-informed Messa
 ## Running the Code 
     python train.py 
 
+## Data 
+See details about the daata format in the jupyter notebook [data_exploration.ipynb](./data_exploration.ipynb).
+
 
 ## Cite 
     @inproceedings{kazadi2024pluvial,
