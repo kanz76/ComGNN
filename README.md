@@ -1,6 +1,6 @@
 # Pluvial Flood Emulation with Hydraulics-informed Message Passing  
 
-This the code our paper ["Pluvial Flood Emulation with Hydraulics-informed Message Passing"]() published at ICML 2024
+This the code our paper ["Pluvial Flood Emulation with Hydraulics-informed Message Passing"](https://openreview.net/forum?id=kIHIA6Lr0B&noteId=kIHIA6Lr0B) published at ICML 2024
 
 ![Model framework](fig/framework3.png) 
 
@@ -15,7 +15,7 @@ This the code our paper ["Pluvial Flood Emulation with Hydraulics-informed Messa
     python train.py 
 
 ## Data 
-See details about the daata format in the jupyter notebook [data_exploration.ipynb](./data_exploration.ipynb).
+See details about the data format in the jupyter notebook [data_exploration.ipynb](./data_exploration.ipynb). The  processed data can be downloaded from [here](https://zenodo.org/records/12425639). 
 
 
 ## Cite 
