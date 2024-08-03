@@ -15,7 +15,23 @@ This the code our paper ["Pluvial Flood Emulation with Hydraulics-informed Messa
     python train.py 
 
 ## Data 
-See details about the data format in the jupyter notebook [data_exploration.ipynb](./data_exploration.ipynb). The  processed data can be downloaded from [here](https://zenodo.org/records/12425639). 
+See details about the data format (including conversion between grid and graph representation) in the jupyter notebook [data_exploration.ipynb](./data_exploration.ipynb). The  processed data can be downloaded from [here](https://zenodo.org/records/12425639). 
+
+- Training set 
+    > whiteoak_harvey  
+    whiteoak_clearlake  
+    whiteoak_jul_2018  
+    sanjacintoriver_harvey  
+    sanjacintoriver_clearlake  
+    sanjacintoriver_jul_2018  
+    vince_harvey  
+    vince_clearlake  
+    vince_jul_2018  
+
+- Validation set 
+    > hunting_harvey  
+        greens_harvey  
+        sims_harvey 
 
 
 ## Cite 
